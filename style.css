@@ -1,0 +1,15 @@
+.card{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 229px;
+    height: 237px;
+    left: 134px;
+    top: 75px;
+    
+    background: #9EAB05;
+    border: 1px solid #000000;
+}
+h1{
+    text-align: center;
+}
